@@ -7,4 +7,5 @@ Backend-разработчик (Go, Python) с 3-летним опытом. Ра
 
 # 💼 Пет-проекты:
 [Suscord](https://github.com/Gamafoot/suscord) - мини-аналог Discord с поддержкой текстового общения, голосовых звонков и демонстрации экрана.
+
 [ShortURL](https://github.com/Gamafoot/ShortURL) - сервис для сокращения ссылок.
